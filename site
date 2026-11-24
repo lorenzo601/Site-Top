@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <iframe src="https://my.meteoblue.com/visimage/meteogram_enslong_hd?look=KILOMETER_PER_HOUR%2CCELSIUS%2CMILLIMETER%2Cdarkmode&temperature=C&windspeed=kmh&precipitationamount=mm&winddirection=3char&city=Basileia&iso2=ch&lat=47.5584&lon=7.57327&asl=279&tz=Europe%2FZurich&dpi=72&apikey=5838a18e295d&lang=pt&ts=1795558792&sig=6e7643b26b2a8c65712cc7daf773b5e7" width="1000" height="3000"></iframe>
+</body>
+</html>
